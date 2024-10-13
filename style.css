@@ -1,0 +1,57 @@
+body {
+    font-family: sans-seri
+}
+ header{
+    padding: 20px;
+    background-color: purple;
+    border: 7px black;
+ }      
+ header b{
+    color: rgba(247, 0, 193, 0.897);
+ }
+ header a {
+    text-decoration: none;
+    background-color: rgb(16, 167, 2);
+    border-radius: 10px;
+    padding: 5px;
+ }
+ h1{
+   background-color: blueviolet;
+   text-align: center;
+   border: 1px black purple;
+ }
+ nav{
+   background-color: blueviolet;
+ }
+ footer p{
+   background-color: blueviolet;
+   padding: 2px;
+ }
+ nav{
+  background-color: rgb(0, 0, 0);
+  text-decoration: none;
+
+ }
+.customp1{
+  background-color: rgb(238, 0, 0);
+}
+.customp2{
+  background-color: blueviolet;
+}
+.customp3{
+  background-color: brown;
+}
+main{
+  padding: 20px;
+}
+main p{
+  font-size: 20px;
+}
+main h2{
+  color: blue;
+}
+main a{
+  border: 5px dotted black;
+  padding: 3px;
+  text-decoration: none;
+}
